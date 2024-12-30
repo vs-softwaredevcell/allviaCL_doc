@@ -1,6 +1,6 @@
 title: 프로젝트 문서
 description: 프로젝트의 완벽한 가이드
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # 색상 스키마 설정
 color_scheme: dark
