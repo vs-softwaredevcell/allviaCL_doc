@@ -1,0 +1,25 @@
+title: 프로젝트 문서
+description: 프로젝트의 완벽한 가이드
+theme: jekyll-theme-minimal
+
+# 네비게이션 설정
+nav:
+  - title: 시작하기
+    children:
+      - title: 소개
+        url: /getting-started/intro
+      - title: 설치
+        url: /getting-started/installation
+  - title: 사용법
+    children:
+      - title: 기본 사용법
+        url: /usage/basic
+      - title: 고급 사용법
+        url: /usage/advanced
+
+# 이미지 설정
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true 
