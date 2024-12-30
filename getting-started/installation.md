@@ -3,6 +3,7 @@ layout: default
 title: 설치
 parent: 시작하기
 nav_order: 2
+has_children: false
 ---
 
 # 설치 가이드

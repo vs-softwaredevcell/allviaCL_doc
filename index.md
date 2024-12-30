@@ -1,7 +1,8 @@
 ---
-layout: default
+layout: home
 title: 홈
 nav_order: 1
+permalink: /
 ---
 
 # 프로젝트 문서에 오신 것을 환영합니다

@@ -3,6 +3,7 @@ layout: default
 title: 소개
 parent: 시작하기
 nav_order: 1
+has_children: false
 ---
 
 # 프로젝트 소개

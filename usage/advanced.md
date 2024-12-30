@@ -3,6 +3,7 @@ layout: default
 title: 고급 사용법
 parent: 사용법
 nav_order: 2
+has_children: false
 ---
 
 # 고급 사용법
